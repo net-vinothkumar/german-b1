@@ -6,7 +6,7 @@
   --backdrop-color: rgba(240, 240, 240, 0.9);
   --gap-length: 2px;
   --row-height: 200px;
-  --column-width: 220px;
+  --column-width: 320px;
 }
 
 .gg-container *[data-theme="dark"] {
